@@ -39,7 +39,7 @@ a number of actions or configure the image further.
    :alt: Working with the image attached to the content element
 
 
-First of all some information is display about the image (1):
+First of all some information is displayed about the image (1):
 thumbnail and file name. The arrow next to the thumbnail is used
 to collapse the display of the image details.
 
